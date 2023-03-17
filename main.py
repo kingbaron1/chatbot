@@ -1,5 +1,6 @@
 from telegram import Update, Bot
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
+import config  # فایل کانفیگ
 
 # ایجاد یک نمونه از bot با token داده شده
 bot = Bot(token=TOKEN)
