@@ -1,5 +1,5 @@
 # تعیین توکن ربات
-TOKEN = 'توکن ربات شما'
+TOKEN = '1286302540:AAGAZ17ft-NLYTtLkBDb73AQ1Qc9qs56k8M'
 
 # تعریف ایدی ادمین
-ADMIN_ID = 'ای دی ادمین'
+ADMIN_ID = '671292689'
